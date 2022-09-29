@@ -376,7 +376,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gridManager: {fileID: 11400000, guid: 3d4b631a6cfe38f4eade845711f25ec9, type: 2}
-  gridObj: {fileID: 9146947845515378743, guid: 0a341b9667fff9f4c986df61359810a8, type: 3}
+  gridObj: {fileID: 8040857249100472599, guid: 0a341b9667fff9f4c986df61359810a8, type: 3}
 --- !u!4 &1488455808
 Transform:
   m_ObjectHideFlags: 0
